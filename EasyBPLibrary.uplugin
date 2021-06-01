@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "EasyBPLibrary",
+	"Description": "Zaperox's very own kitchen-sink of useful things, exposed to Blueprint!",
+	"Category": "Zaperox",
+	"CreatedBy": "Zaperox",
+	"CreatedByURL": "http://shortparse.co.uk/",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "EasyBPLibrary",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault"
+		}
+	]
+}
